@@ -1,5 +1,5 @@
 .container{
-  background-color: teal;
+  background-color: #f39189;
   height:100vh;
   width: 100vw;
 
@@ -8,6 +8,6 @@ h1{
   text-align: center;
   margin-top: 40vh;
   font-size: 90px;
-  color: purple;
+  color: #6e7582;
   font-family: Helvetica, sans-serif;
 }
